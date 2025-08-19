@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "dragons-rage-website",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c1a983e0-c0de-44df-94f9-94e3a5550836",
+      "database_name": "dragons-rage-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
